@@ -48,4 +48,4 @@ Lance le projet :
 Ouvre simplement index.html dans ton navigateur
 
 Capture :
-<img src="Capture d&apos;écran 2026-04-17 112716.png/>
+![Aperçu du projet](./image.png)

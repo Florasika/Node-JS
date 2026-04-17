@@ -3,6 +3,8 @@
 Une calculatrice simple et fonctionnelle développée en **HTML, CSS et JavaScript vanilla**.  
 Ce projet permet de réaliser des opérations mathématiques de base directement dans le navigateur.
 
+![alt text](image-1.png)
+
 ---
 
 ## 🚀 Fonctionnalités

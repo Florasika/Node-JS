@@ -48,4 +48,4 @@ Lance le projet :
 Ouvre simplement index.html dans ton navigateur
 
 Capture :
-![Aperçu du projet](image.png)
+![alt text](image.png)

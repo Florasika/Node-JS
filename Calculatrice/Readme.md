@@ -48,6 +48,3 @@ Ouvre le dossier :
 cd calculator-js
 Lance le projet :
 Ouvre simplement index.html dans ton navigateur
-
-Capture :
-![alt text](image.png)

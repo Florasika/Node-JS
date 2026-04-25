@@ -1,7 +1,7 @@
 # 💬 Mini Chat en JavaScript
 
 Un mini projet frontend qui simule une application de chat entre deux utilisateurs directement dans le navigateur, sans backend.
-
+![alt text](image-1.png)
 ---
 
 ## 🚀 Objectif du projet
@@ -100,9 +100,6 @@ Cela permet de conserver les messages même après un rafraîchissement de la pa
     Ajout d’un backend (Node.js + Socket.io)
     Authentification utilisateur
     
-📸 Aperçu
-
-![alt text](image.png)
 
 📌 À propos
 

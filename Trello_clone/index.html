@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Trello Clone</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Mini Trello</h1>
+
+  <div class="board">
+
+    <div class="column">
+      <h2>À faire</h2>
+      <div class="task-list" id="todo"></div>
+      <button onclick="addTask('todo')">+ Ajouter</button>
+    </div>
+
+    <div class="column">
+      <h2>En cours</h2>
+      <div class="task-list" id="doing"></div>
+      <button onclick="addTask('doing')">+ Ajouter</button>
+    </div>
+
+    <div class="column">
+      <h2>Terminé</h2>
+      <div class="task-list" id="done"></div>
+      <button onclick="addTask('done')">+ Ajouter</button>
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

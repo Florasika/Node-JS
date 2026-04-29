@@ -1,0 +1,20 @@
+[
+  {
+    "title": "To-Do App",
+    "description": "Application de gestion de tâches avec localStorage",
+    "image": "https://picsum.photos/400/300?random=1",
+    "link": "#"
+  },
+  {
+    "title": "Weather App",
+    "description": "Application météo avec API",
+    "image": "https://picsum.photos/400/300?random=2",
+    "link": "#"
+  },
+  {
+    "title": "Calculator",
+    "description": "Calculatrice en JavaScript",
+    "image": "https://picsum.photos/400/300?random=3",
+    "link": "#"
+  }
+]

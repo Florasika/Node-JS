@@ -94,12 +94,6 @@ http://127.0.0.1:5500/
 
 ![alt text](image.png)*
 
----
-
-## 📬 Contact
-
-* LinkedIn : (ton lien)
-* GitHub : (ton profil)
 
 ---
 

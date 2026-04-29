@@ -92,7 +92,7 @@ http://127.0.0.1:5500/
 
 ## 📸 Aperçu
 
-*(Ajoute ici une capture d’écran de ton projet)*
+![alt text](image.png)*
 
 ---
 
